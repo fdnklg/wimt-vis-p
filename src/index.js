@@ -1,0 +1,1 @@
+import map from './js/map/index';
