@@ -1,5 +1,5 @@
 {
-  "name": "wimt-vis-p",
+  "name": "wimt-vis-parcel",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -9,19 +9,5 @@
     "leaflet": "^1.2.0",
     "node": "^9.2.0",
     "precss": "^2.0.0"
-  },
-  "description": "",
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/fdnklg/wimt-vis-p.git"
-  },
-  "author": "Fabian Dinklage",
-  "bugs": {
-    "url": "https://github.com/fdnklg/wimt-vis-p/issues"
-  },
-  "homepage": "https://github.com/fdnklg/wimt-vis-p#readme"
+  }
 }

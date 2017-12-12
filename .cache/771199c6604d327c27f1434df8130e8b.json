@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./src/index.js"}],"generated":{"js":"\"use strict\";\n\nvar _index = require(\"./src/index.js\");\n\nvar _index2 = _interopRequireDefault(_index);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }"},"hash":"989660eb8214c2228fa954a261eaaabe"}
